@@ -1,2 +1,2 @@
 # CSharpSample
-C샵용 샘플
+C# 샘플
